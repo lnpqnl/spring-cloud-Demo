@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: microservicecloud-config-client  #和bootstrap.yml保持一致
