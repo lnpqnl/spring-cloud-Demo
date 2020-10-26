@@ -1,5 +1,5 @@
 # springCloud-Demo
-### 创建了springCloud的功能demo
+### 搭建了springCloud的全家桶
 ### 微服务 一条龙：Eureka,Riboon,Fegin,Histrix,zuul,config..
 ### eureka-7001,eureka-7002,eureka-7003：Eureka集群
 ### provider-dept-8001，provider-dept-8001：具体的微服务
