@@ -1,9 +1,6 @@
 # springCloud-Demo ,这是一次微服务全家桶的实践
-<br>
 This is a practice of microservice family bucket 
-<br>
 ### 搭建了springCloud的全家桶
-<br>
 Built the family bucket architecture of springCloud 
 <br>
 ### 微服务 一条龙：Eureka,Riboon,Fegin,Histrix,zuul,config..
